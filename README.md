@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Pale 👋
-
 **Python & C# Developer**
 
 I'm an 18-year-old developer interested in software engineering, security research, and automation.
