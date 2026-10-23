@@ -2,8 +2,6 @@
 
 **Python & C# Developer**
 
-I'm an 18-year-old developer interested in software engineering, security research, and automation.
-
 [![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bloodtemple?tab=repositories)
 ![Profile views](https://komarev.com/ghpvc/?username=bloodtemple&style=for-the-badge&color=blue&label=Profile+views)
 
@@ -64,18 +62,6 @@ Explore my [repositories](https://github.com/bloodtemple?tab=repositories) for i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" title="Rust" width="42" height="42" />
 </p>
 
-## `05` — GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bloodtemple&show_icons=true&hide_border=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bloodtemple&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodtemple&layout=compact&hide_border=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodtemple&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</picture>
 
 </div>
 
