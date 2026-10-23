@@ -3,7 +3,6 @@
 **Python & C# Developer**
 
 [![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bloodtemple?tab=repositories)
-![Profile views](https://komarev.com/ghpvc/?username=bloodtemple&style=for-the-badge&color=blue&label=Profile+views)
 
 </div>
 
