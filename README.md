@@ -12,7 +12,6 @@
 
 - 💻 Software development across multiple languages and platforms
 - 🔐 Cybersecurity research, vulnerability analysis, and reconnaissance
-- 🧩 Reverse engineering, source analysis, and low-level internals
 - ⚙️ Automation, scripting, and custom tooling
 - 🌐 Web applications, backend logic, and API integrations
 
